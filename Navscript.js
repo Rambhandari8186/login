@@ -20,5 +20,5 @@
 
   //alret the message after 5 sec from the page load
 
-setTimeout(function(){ alert("This page is still in Prograss, Please visit again and see our beatufull works"); }, 5000);
+//setTimeout(function(){ alert("This page is still in Prograss, Please visit again and see our beautiful works"); }, 5000);
 
